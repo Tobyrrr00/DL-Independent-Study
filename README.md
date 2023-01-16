@@ -1,2 +1,2 @@
 # School-Projects
-Projects completed while a student at Spokane Community College
+Projects completed while a student

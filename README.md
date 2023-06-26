@@ -10,6 +10,7 @@ A simple neural net that learns to add two small number together. Done from scra
 
 #### neuralNetTF.py
 A simple neural net that learns to add two small number together. 
+<<<<<<< HEAD
 
 ## Music Genre Classifier
 
@@ -38,3 +39,5 @@ https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classif
 Run preprocess.py to extract MFCCs from the audio data and save them in a JSON file.
 Run genreClassifier.py to train and evaluate the music genre classifier.
 The project requires Python 3.x and depends on several packages, including TensorFlow, NumPy, sklearn, matplotlib, and librosa. Make sure these are installed in your environment before running the scripts.
+=======
+>>>>>>> d91bdd72b1912685a8994deb068c63d2bbc1b3ee

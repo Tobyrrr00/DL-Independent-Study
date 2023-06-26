@@ -13,7 +13,7 @@ A simple neural net that learns to add two small number together.
 
 ## Music Genre Classifier
 
-This project contains a Python-based project for classifying music genres. It is composed of two main Python scripts - preprocess.py and genreClassifier.py.
+This is a Python-based project for classifying music genres. It is composed of two main Python scripts - preprocess.py and genreClassifier.py.
 
 **preprocess.py**
 The preprocess.py script is responsible for pre-processing the dataset, where it extracts Mel-frequency cepstral coefficients (MFCC) from each audio track. MFCCs are numerical representations of different properties of an audio signal, serving as the input to our machine learning model. The script splits each track into several segments, and MFCCs are computed for each of these segments.

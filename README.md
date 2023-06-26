@@ -43,4 +43,4 @@ The project requires Python 3.x and depends on several packages, including Tenso
 The origin of this project was part of the following along of Valerio Velardos Deep Learning course on Youtube found here:
 https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf
 
-The Author of this code is all mine as I followed along with his tutorials. 
+I am the author of all the code present as followed along with the tutorials. The part I wrote independently of the tutorial was saving the model. 

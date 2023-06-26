@@ -27,7 +27,7 @@ The model is trained using the Adam optimizer and a sparse categorical cross ent
 
 For visualization purposes, the script also includes a function that plots the model's accuracy and loss over the epochs. This visualization helps to track the model's learning progress over time. Finally, the trained model is saved for future use.
 
-There are two Saved instances. Found in the folders genreClassifier and genreClassifier150. The difference between the two is the amount of epochs. The first was run for 50 and the second for 150 epochs. 
+There is also a saved instance in the folders genreClassifier. The difference between the two is the amount of epochs. It was runfor 50 epochs. You can also see the output (both graphically and in text) of previous runs in the outputs section. The output for the saved instance of the model is saved as genreClassifierv2r1.
 
 How to Run
 To execute this project:
@@ -38,3 +38,9 @@ https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classif
 Run preprocess.py to extract MFCCs from the audio data and save them in a JSON file.
 Run genreClassifier.py to train and evaluate the music genre classifier.
 The project requires Python 3.x and depends on several packages, including TensorFlow, NumPy, sklearn, matplotlib, and librosa. Make sure these are installed in your environment before running the scripts.
+
+## Author and Origin
+The origin of this project was part of the following along of Valerio Velardos Deep Learning course on Youtube found here:
+https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf
+
+The Author of this code is all mine as I followed along with his tutorials. 
